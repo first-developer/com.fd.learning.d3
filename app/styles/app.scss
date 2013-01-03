@@ -1,0 +1,32 @@
+@import "compass/reset";
+@import "compass/utilities";
+@import "../../app/styles/libs/bootstrap";
+@import "../../app/styles/libs/bootstrap-responsive";
+
+
+div.chart{ 
+	font-family: 	"Roboto", sans-serif;
+	font-size:  	1em; 
+}
+
+div.bar { 
+	background-color: 	DarkRed; 
+	color: 				white;
+	height: 			3em; 
+	line-height: 		3em; 
+	padding-right: 		1em; 
+	margin-bottom: 		2px; 
+	text-align: 		right;
+	display: 			inline-block;
+}
+
+
+div.lbl { 
+	height:3em;
+	line-height:3em; 
+	padding-right:1em;
+	margin-bottom:2px;
+	width: 20em;
+	float:left; 
+	text-align: right;
+}

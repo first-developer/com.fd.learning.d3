@@ -1,0 +1,80 @@
+[
+  {
+    "name": "123",
+    "status": "SERVICE CHANGE",
+    "text": "\n                    <span class=\"TitleServiceChange\" >Service Change</span>\n                    <span class=\"DateStyle\">\n                    &nbsp;Posted:&nbsp;12/27/2012&nbsp; 5:50AM\n                    </span><br/><br/>\n                  <P><STRONG>No </STRONG>[3] <STRONG>trains between 96 St and 148 St.</STRONG></P>\n<P>[2] <STRONG>trains and free shuttle buses provide alternate service</STRONG></P>\n<P>[3] trains operate between <STRONG>New Lots Av</STRONG> and <STRONG>96 St</STRONG>, and via the [1] <EM>to </EM><STRONG>137 St</STRONG>.</P>\n<P>[2] trains make all [3] stops between <STRONG>96 St</STRONG> and <STRONG>135 St</STRONG>.</P>\n<P>Free shuttle buses provide alternate service between <STRONG>135 St</STRONG> and <STRONG>148 St</STRONG>.</P>\n<UL>\n<LI>Transfer between [2] and [3] trains at<STRONG> 96 St</STRONG>.</LI>\n<LI>Transfer between [2] trains and shuttle buses at <STRONG>135 St</STRONG>.</LI></UL>\n<P><STRONG>Note:</STRONG> This change is necessary to prepare for forecasted inclement weather conditions.</P>\n<P>Please check mta.info for the most current information.</P>\n<P><STRONG>Reminder:</STRONG> Late night [3] service does not operate between <STRONG>Times Sq-42 St</STRONG> and <STRONG>New Lots Av</STRONG>.</P>\n                <br/><br/>\n              \n                    <span class=\"TitleServiceChange\" >Service Change</span>\n                    <span class=\"DateStyle\">\n                    &nbsp;Posted:&nbsp;12/27/2012&nbsp;12:35AM\n                    </span><br/><br/>\n                  <P>All times until further notice:</P>\n<P>No [1] trains between <STRONG>Rector St</STRONG> and <STRONG>South Ferry</STRONG></P>\n<P>[1] service operates between <STRONG>242 St</STRONG> and <STRONG>Rector St</STRONG>.</P>\n<P>For South Ferry, use the nearby <STRONG>Whitehall St</STRONG> [R]* or<STRONG> Bowling Green [4]</STRONG>, <STRONG>[5]</STRONG> <STRONG>Stations</STRONG> instead. </P>\n<P> - Transfer between [1] and [R] trains at <STRONG>Times Sq-42 St</STRONG>.</P>\n<P> - Transfer between [1] and [2] [3] trains at <STRONG>Chambers St.</STRONG></P>\n<P> - Transfer between [2] [3] and [4] [5] trains at <STRONG>Fulton St.</STRONG></P>\n<P>*Late night service at this station is provided by the [N].<SPAN class=930585121-20122012><FONT color=#0000ff><SPAN class=435191216-21122012> </SPAN></FONT></SPAN></P>\n                <br/><br/>\n              ",
+    "Date": "12/27/2012",
+    "Time": " 5:50AM"
+  },
+  {
+    "name": "456",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  },
+  {
+    "name": "7",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  },
+  {
+    "name": "ACE",
+    "status": "SERVICE CHANGE",
+    "text": "\n                    <span class=\"TitleServiceChange\" >Service Change</span>\n                    <span class=\"DateStyle\">\n                    &nbsp;Posted:&nbsp;12/27/2012&nbsp; 7:42AM\n                    </span><br/><br/>\n                  <P>[A] Shuttle bus service detoured due to flooding on Rockaway Turnpike. </P>\n<P><STRONG>Detour as follows:</STRONG></P>\n<P><STRONG>Southbound to Mott Av [A]:</STRONG> Via Rockaway Turnpike, right on Burnside Av, left into 878  and then regular route. </P>\n<P><STRONG>Northbound to Howard Beach [A]:</STRONG> Via 878, right on Peninsula Blvd, left on Rockaway Turnpike and then regular route. </P>\n<P>Please allow additional travel time. </P>\n<P> </P>\n                <br/><br/>\n              \n                    <span class=\"TitleServiceChange\" >Service Change</span>\n                    <span class=\"DateStyle\">\n                    &nbsp;Posted:&nbsp;12/27/2012&nbsp;12:34AM\n                    </span><br/><br/>\n                  <P>Until further notice:</P>\n<P>[A] No trains between <STRONG>Howard Beach-JFK/Broad Channel</STRONG> and the <STRONG>Rockaways.</STRONG></P>\n<P>[A] Service operates between <STRONG>207 St</STRONG> and <STRONG>Lefferts Blvd/Howard Beach</STRONG>.</P>\n<P>Free shuttle buses operate nonstop between <STRONG>Howard Beach</STRONG> [A] and <STRONG>Mott Av</STRONG>.</P>\n<P>[H] Free shuttle trains operate between<STRONG> Mott Av</STRONG> and <STRONG>Beach 90 St</STRONG>. </P>\n<P>[H] Shuttle hours of operation:</P>\n<P>Departing <STRONG>Mott Av</STRONG>: 4am to 12 midnight, every 15 minutes.</P>\n<P>Departing <STRONG>Beach 90 St</STRONG>: 4:30am to 12:30am, every 15 minutes.</P>\n<P>-Transfer between [A] trains and shuttle buses at <STRONG>Howard Beach</STRONG>.</P>\n<P>-Transfer between shuttle buses and [H] trains at <STRONG>Mott Av</STRONG>.</P>\n<P>For service between <STRONG>Beach 90 St</STRONG> and <STRONG>Beach 116 St</STRONG>, take the <STRONG>Q22 </STRONG>bus,</P>\n<P>making nearby stops on Rockaway Beach Blvd.  </P>\n                <br/><br/>\n              ",
+    "Date": "12/27/2012",
+    "Time": " 7:42AM"
+  },
+  {
+    "name": "BDFM",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  },
+  {
+    "name": "G",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  },
+  {
+    "name": "JZ",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  },
+  {
+    "name": "L",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  },
+  {
+    "name": "NQR",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  },
+  {
+    "name": "S",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  },
+  {
+    "name": "SIR",
+    "status": "GOOD SERVICE",
+    "text": null,
+    "Date": null,
+    "Time": null
+  }
+
+]

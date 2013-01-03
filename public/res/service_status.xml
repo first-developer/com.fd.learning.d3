@@ -1,0 +1,722 @@
+<service><responsecode>0</responsecode><timestamp>12/27/2012 8:14:58 AM</timestamp><subway>
+  <line>
+    <name>123</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp; 5:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;&lt;STRONG&gt;No &lt;/STRONG&gt;[3] &lt;STRONG&gt;trains between 96 St and 148 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[2] &lt;STRONG&gt;trains and free shuttle buses provide alternate service&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[3] trains operate between &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt; and &lt;STRONG&gt;96 St&lt;/STRONG&gt;, and via the [1] &lt;EM&gt;to &lt;/EM&gt;&lt;STRONG&gt;137 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;[2] trains make all [3] stops between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;135 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Free shuttle buses provide alternate service between &lt;STRONG&gt;135 St&lt;/STRONG&gt; and &lt;STRONG&gt;148 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;UL&gt;
+&lt;LI&gt;Transfer between [2] and [3] trains at&lt;STRONG&gt; 96 St&lt;/STRONG&gt;.&lt;/LI&gt;
+&lt;LI&gt;Transfer between [2] trains and shuttle buses at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.&lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;Note:&lt;/STRONG&gt; This change is necessary to prepare for forecasted inclement weather conditions.&lt;/P&gt;
+&lt;P&gt;Please check mta.info for the most current information.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Reminder:&lt;/STRONG&gt; Late night [3] service does not operate between &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; and &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp;12:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;All times until further notice:&lt;/P&gt;
+&lt;P&gt;No [1] trains between &lt;STRONG&gt;Rector St&lt;/STRONG&gt; and &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[1] service operates between &lt;STRONG&gt;242 St&lt;/STRONG&gt; and &lt;STRONG&gt;Rector St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;For South Ferry, use the nearby &lt;STRONG&gt;Whitehall St&lt;/STRONG&gt; [R]* or&lt;STRONG&gt; Bowling Green [4]&lt;/STRONG&gt;, &lt;STRONG&gt;[5]&lt;/STRONG&gt; &lt;STRONG&gt;Stations&lt;/STRONG&gt; instead. &lt;/P&gt;
+&lt;P&gt; - Transfer between [1] and [R] trains at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt; - Transfer between [1] and [2] [3] trains at &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt; - Transfer between [2] [3] and [4] [5] trains at &lt;STRONG&gt;Fulton St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;*Late night service at this station is provided by the [N].&lt;SPAN class=930585121-20122012&gt;&lt;FONT color=#0000ff&gt;&lt;SPAN class=435191216-21122012&gt; &lt;/SPAN&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/27/2012</Date>
+    <Time> 5:50AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp; 7:42AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[A] Shuttle bus service detoured due to flooding on Rockaway Turnpike. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Detour as follows:&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound to Mott Av [A]:&lt;/STRONG&gt; Via Rockaway Turnpike, right on Burnside Av, left into 878  and then regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound to Howard Beach [A]:&lt;/STRONG&gt; Via 878, right on Peninsula Blvd, left on Rockaway Turnpike and then regular route. &lt;/P&gt;
+&lt;P&gt;Please allow additional travel time. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp;12:34AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Until further notice:&lt;/P&gt;
+&lt;P&gt;[A] No trains between &lt;STRONG&gt;Howard Beach-JFK/Broad Channel&lt;/STRONG&gt; and the &lt;STRONG&gt;Rockaways.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[A] Service operates between &lt;STRONG&gt;207 St&lt;/STRONG&gt; and &lt;STRONG&gt;Lefferts Blvd/Howard Beach&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Free shuttle buses operate nonstop between &lt;STRONG&gt;Howard Beach&lt;/STRONG&gt; [A] and &lt;STRONG&gt;Mott Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;[H] Free shuttle trains operate between&lt;STRONG&gt; Mott Av&lt;/STRONG&gt; and &lt;STRONG&gt;Beach 90 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;[H] Shuttle hours of operation:&lt;/P&gt;
+&lt;P&gt;Departing &lt;STRONG&gt;Mott Av&lt;/STRONG&gt;: 4am to 12 midnight, every 15 minutes.&lt;/P&gt;
+&lt;P&gt;Departing &lt;STRONG&gt;Beach 90 St&lt;/STRONG&gt;: 4:30am to 12:30am, every 15 minutes.&lt;/P&gt;
+&lt;P&gt;-Transfer between [A] trains and shuttle buses at &lt;STRONG&gt;Howard Beach&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;-Transfer between shuttle buses and [H] trains at &lt;STRONG&gt;Mott Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;For service between &lt;STRONG&gt;Beach 90 St&lt;/STRONG&gt; and &lt;STRONG&gt;Beach 116 St&lt;/STRONG&gt;, take the &lt;STRONG&gt;Q22 &lt;/STRONG&gt;bus,&lt;/P&gt;
+&lt;P&gt;making nearby stops on Rockaway Beach Blvd.  &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/27/2012</Date>
+    <Time> 7:42AM</Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>G</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>JZ</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>S</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</subway><bus>
+  <line>
+    <name>B1 - B83</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp;12:32AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B36&lt;/STRONG&gt; bus detoured due to Con Ed work on Mermaid Av and W 33 St.  &lt;/P&gt;
+&lt;P&gt;Detour as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via W 33 St, right on Mermaid Av, left on 36 St, left on Surf Av and then regular route. &lt;/P&gt;
+&lt;P&gt;Please allow additional travel time.  &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>12/27/2012</Date>
+    <Time>12:32AM</Time>
+  </line>
+  <line>
+    <name>B100 - B103</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BX1 - BX55</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp; 7:16AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx31&lt;/STRONG&gt; and &lt;STRONG&gt;BxM10&lt;/STRONG&gt; buses are detoured due to milling on Eastchester Rd between Givan Av and Hammersley Av. &lt;/P&gt;
+&lt;P&gt;Detour as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Burke Av stop; buses will pick up near side of Givan Av; Gun Hill Av stop, buses will pick up on far side of Gun Hill Rd (by park).&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Burke Av stop; drop off on Givan Av after left turn.  &lt;/P&gt;
+&lt;P&gt;Please allow additional travel time.  &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(41888);&gt;
+&lt;b&gt;Bx4, Bx4A and Bx31 buses detoured due to Side Walk Reconstruction
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 41888 class="plannedWorkDetail" &gt;&lt;/b&gt;All times
+&lt;br&gt;
+&lt;br&gt;Buses are being detoured from Lane Av between E Tremont 
+&lt;br&gt;and Benson Avs.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Northbound/Southbound: &lt;/b&gt;Customers are advised to board
+&lt;br&gt;on Lane Av at Benson Av.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time. 
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(41269);&gt;
+&lt;b&gt;Bx28 and Bx30 buses bypassing stop due to construction
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 41269 class="plannedWorkDetail" &gt;&lt;/b&gt;All times
+&lt;br&gt;
+&lt;br&gt;Buses are bypassing the Gun Hill Rd at Bronxwood Av bus stop.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Eastbound/Westbound&lt;/b&gt;: Customers are advised to use the
+&lt;br&gt;temporary bus stop on Gun Hill Rd at Colden Av.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time. 
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>12/27/2012</Date>
+    <Time> 7:16AM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp; 7:16AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx31&lt;/STRONG&gt; and &lt;STRONG&gt;BxM10&lt;/STRONG&gt; buses are detoured due to milling on Eastchester Rd between Givan Av and Hammersley Av. &lt;/P&gt;
+&lt;P&gt;Detour as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Burke Av stop; buses will pick up near side of Givan Av; Gun Hill Av stop, buses will pick up on far side of Gun Hill Rd (by park).&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Burke Av stop; drop off on Givan Av after left turn.  &lt;/P&gt;
+&lt;P&gt;Please allow additional travel time.  &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>12/27/2012</Date>
+    <Time> 7:16AM</Time>
+  </line>
+  <line>
+    <name>M1 - M116</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(41673);&gt;
+&lt;b&gt;M5 and M5LTD and M7 bus stop change due to Holiday Events
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 41673 class="plannedWorkDetail" &gt;&lt;/b&gt;All times until Saturday, Jan 5, 2013
+&lt;br&gt;
+&lt;br&gt;Buses will not stop on 6 Av at 49 or 50 Sts.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;M5, M5LTD and M7&lt;/b&gt;:  Customers are advised to 
+&lt;br&gt;use the bus stop on 47 St for limited service and 
+&lt;br&gt;51 St for local service.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time. 
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(40426);&gt;
+&lt;b&gt;M20 and M22 bus stop change due to Construction 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 40426 class="plannedWorkDetail" &gt;&lt;/b&gt;All times
+&lt;br&gt;
+&lt;br&gt;Temporary bus stop change due to construction.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;M20 Southbound&lt;/b&gt;:  Buses will bypass the Chambers St
+&lt;br&gt;at West Broadway stop.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;M22 Westbound&lt;/b&gt;: Buses will bypass stops on Chambers
+&lt;br&gt;St at Church St and West Broadway.
+&lt;br&gt;
+&lt;br&gt;Buses will make stops on West Broadway between Reade
+&lt;br&gt;and Chambers Sts.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(41671);&gt;
+&lt;b&gt;M2, M2LTD, M3, M5 and M5LTD bus stop change due to Holiday Events
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 41671 class="plannedWorkDetail" &gt;&lt;/b&gt;All times until Saturday, Jan 5, 2013
+&lt;br&gt;
+&lt;br&gt;Buses will not stop on 5 or 6 Avs at 49 or 50 Sts.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;M2, M2LTD, M3, M5, M5LTD&lt;/b&gt;:  &lt;/font&gt;Customers are advised 
+&lt;br&gt;to use the bus stop on 53 St for limited service and 47
+&lt;br&gt;St for local service.&lt;b&gt;       
+&lt;br&gt;
+&lt;br&gt;&lt;/b&gt;&amp;#149; Please allow additional travel time. 
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(42330);&gt;
+&lt;b&gt;M15 temporary bus stop change
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 42330 class="plannedWorkDetail" &gt;&lt;/b&gt;All times
+&lt;br&gt; 
+&lt;br&gt;Bus stops on State St, far side of Whitehall St and Water St, far 
+&lt;br&gt;side of Broad St are temporarily closed.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: 
+&lt;br&gt;For the State St at Whitehall St bus stop, customers are advised
+&lt;br&gt;to board at the South Ferry Terminal.
+&lt;br&gt;
+&lt;br&gt;For the Water St at Broad St bus stop, customers are advised to
+&lt;br&gt;board at Old Slip. 
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(41669);&gt;
+&lt;b&gt;M1, M1LTD, M4, M4LTD and Q32 bus stop change due to Holiday Events
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 41669 class="plannedWorkDetail" &gt;&lt;/b&gt;All times until Saturday, Jan 5, 2013
+&lt;br&gt;
+&lt;br&gt;Buses will not stop on 5 or 6 Avs at 49 or 50 Sts.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;M1, M1LTD, M4, M4LTD and Q32&lt;/b&gt;:  Customers are
+&lt;br&gt;advised to use the bus stop on 52 St for limited service
+&lt;br&gt;and 46 St for local service.&lt;b&gt;       
+&lt;br&gt;
+&lt;br&gt;&lt;/b&gt;&amp;#149; Please allow additional travel time. 
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/20/2012</Date>
+    <Time>12:00AM</Time>
+  </line>
+  <line>
+    <name>Q1 - Q113</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp; 8:05AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q113&lt;/STRONG&gt; bus detoured in both directions due to flooding on Brookville Blvd.&lt;/P&gt;
+&lt;P&gt;Detour as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;South to Seagrit Blvd&lt;/STRONG&gt;:Via Guy R Brewer, left on Rockaway Blvd, right on Burnside Av, and then regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;North to Parsons Blvd:&lt;/STRONG&gt; Via Rockaway Blvd, right on Guy R Brewer and then regular route.  &lt;/P&gt;
+&lt;P&gt;Please allow additional travel time.  &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp; 7:56AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Q11&lt;/SPAN&gt;&lt;/STRONG&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; bus service into Howard and &lt;?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /&gt;&lt;st1:place w:st="on"&gt;&lt;st1:PlaceName w:st="on"&gt;Hamilton&lt;/st1:PlaceName&gt; &lt;st1:PlaceType w:st="on"&gt;Beach&lt;/st1:PlaceType&gt;&lt;/st1:place&gt; will terminate at 159 Av and 101 St, due to flooding from extremely high tides. &lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Leaving Howard and &lt;st1:place w:st="on"&gt;&lt;st1:PlaceName w:st="on"&gt;Hamilton&lt;/st1:PlaceName&gt; &lt;st1:PlaceType w:st="on"&gt;Beach&lt;/st1:PlaceType&gt;&lt;/st1:place&gt; buses will terminate at 159 Av and 101 St, make left turn onto 159 Av and then regular route.  &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Please allow additional travel time.  &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/27/2012&amp;nbsp; 6:17AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q113 &lt;/STRONG&gt;limited bus detoured in both directions due to flooding on Rockaway Turnpike. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Detour as follows:&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound to Seagrit Blvd:&lt;/STRONG&gt; Via Rockaway Turnpike, right on Burnside Av, left into 878  and then regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound to Parsons and Hillside Av:&lt;/STRONG&gt; Via 878, right on Peninsula Blvd, left on Rockaway Turnpike and then regular route. &lt;/P&gt;
+&lt;P&gt;Please allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(41669);&gt;
+&lt;b&gt;M1, M1LTD, M4, M4LTD and Q32 bus stop change due to Holiday Events
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 41669 class="plannedWorkDetail" &gt;&lt;/b&gt;All times until Saturday, Jan 5, 2013
+&lt;br&gt;
+&lt;br&gt;Buses will not stop on 5 or 6 Avs at 49 or 50 Sts.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;M1, M1LTD, M4, M4LTD and Q32&lt;/b&gt;:  Customers are
+&lt;br&gt;advised to use the bus stop on 52 St for limited service
+&lt;br&gt;and 46 St for local service.&lt;b&gt;       
+&lt;br&gt;
+&lt;br&gt;&lt;/b&gt;&amp;#149; Please allow additional travel time. 
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>12/27/2012</Date>
+    <Time> 8:05AM</Time>
+  </line>
+  <line>
+    <name>QM1 - QM25</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(41682);&gt;
+&lt;b&gt;QM1, QM5 and QM6 bus stop change due to Holiday Events
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 41682 class="plannedWorkDetail" &gt;&lt;/b&gt;All times until Saturday, Jan 5, 2013
+&lt;br&gt;
+&lt;br&gt;Buses will not stop on 6 Av at 49 St.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;QM1, QM5 and QM6&lt;/b&gt;:  Customers are advised to
+&lt;br&gt;use the bus stop on 6 Av at 48 St.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time. 
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/20/2012</Date>
+    <Time>12:00AM</Time>
+  </line>
+  <line>
+    <name>S40 - S98</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>x1 - x68</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(41674);&gt;
+&lt;b&gt;X1, X7 and X9 bus stop change due to Holiday Events
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 41674 class="plannedWorkDetail" &gt;&lt;/b&gt;All times until Saturday, Jan 5, 2013
+&lt;br&gt;
+&lt;br&gt;Buses will not stop on 50 St at Rockefeller Plz or on
+&lt;br&gt;5 Av at 48 St.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;X1, X7 and X9&lt;/b&gt;:  Customers are advised to use the
+&lt;br&gt;bus stop on 7 Av at 50 St.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time. 
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/20/2012</Date>
+    <Time>12:00AM</Time>
+  </line>
+</bus><BT>
+  <line>
+    <name>Throgs Neck</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/27/2012</Date>
+    <Time> 6:15AM</Time>
+  </line>
+  <line>
+    <name>Henry Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/21/2012</Date>
+    <Time> 5:49PM</Time>
+  </line>
+  <line>
+    <name>Marine Parkway</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/21/2012</Date>
+    <Time> 1:14PM</Time>
+  </line>
+  <line>
+    <name>Bronx-Whitestone</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/22/2012</Date>
+    <Time> 5:39AM</Time>
+  </line>
+  <line>
+    <name>Brooklyn-Battery</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/18/2012</Date>
+    <Time> 4:12PM</Time>
+  </line>
+  <line>
+    <name>Queens Midtown</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/21/2012</Date>
+    <Time> 9:02AM</Time>
+  </line>
+  <line>
+    <name>Robert F. Kennedy</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/27/2012</Date>
+    <Time> 4:49AM</Time>
+  </line>
+  <line>
+    <name>Cross Bay</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/21/2012</Date>
+    <Time> 1:14PM</Time>
+  </line>
+  <line>
+    <name>Verrazano-Narrows</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/26/2012</Date>
+    <Time> 6:47AM</Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>City Terminal Zone</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/27/2012</Date>
+    <Time> 8:11AM</Time>
+  </line>
+  <line>
+    <name>Babylon</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/27/2012</Date>
+    <Time> 8:11AM</Time>
+  </line>
+  <line>
+    <name>Far Rockaway</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/26/2012</Date>
+    <Time> 7:15PM</Time>
+  </line>
+  <line>
+    <name>Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/25/2012</Date>
+    <Time>11:24PM</Time>
+  </line>
+  <line>
+    <name>Long Beach</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/24/2012</Date>
+    <Time> 7:57PM</Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/26/2012</Date>
+    <Time> 8:30PM</Time>
+  </line>
+  <line>
+    <name>Oyster Bay</name>
+    <status>DELAYS</status>
+    <text>&lt;P&gt;&lt;STRONG&gt;&lt;FONT size=5&gt;Oyster Bay Branch Customers&lt;/FONT&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Service is restored on the Oyster Bay Branch.&amp;nbsp; Earlier, a tree across the tracks west of Locust Valley suspended service.&amp;nbsp; The first train to operate west is the scheduled 7:13 AM train from Oyster Bay due Long Island City at 8:34 AM, running 16 minutes late.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;The 8:06AM train from Jamaica due Oyster Bay at 9:03AM, is anticipated to operate approximately 30 minutes late as a residual delay of the earlier Oyster Bay Branch service suspension.&lt;/P&gt;</text>
+    <url></url>
+    <Date>12/27/2012</Date>
+    <Time> 8:01AM</Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/26/2012</Date>
+    <Time> 9:34PM</Time>
+  </line>
+  <line>
+    <name>Port Washington</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/24/2012</Date>
+    <Time> 7:58PM</Time>
+  </line>
+  <line>
+    <name>Ronkonkoma</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/27/2012</Date>
+    <Time> 7:37AM</Time>
+  </line>
+  <line>
+    <name>West Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/24/2012</Date>
+    <Time> 8:54AM</Time>
+  </line>
+</LIRR><MetroNorth>
+  <line>
+    <name>Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/13/2012</Date>
+    <Time> 7:16PM</Time>
+  </line>
+  <line>
+    <name>Harlem</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/13/2012</Date>
+    <Time> 7:49PM</Time>
+  </line>
+  <line>
+    <name>Wassaic</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>11/13/2012</Date>
+    <Time>10:21AM</Time>
+  </line>
+  <line>
+    <name>New Haven</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/16/2012</Date>
+    <Time>10:08PM</Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/19/2012</Date>
+    <Time> 2:46PM</Time>
+  </line>
+  <line>
+    <name>Danbury</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/06/2012</Date>
+    <Time> 5:12AM</Time>
+  </line>
+  <line>
+    <name>Waterbury</name>
+    <status>GOOD SERVICE</status>
+    <text></text>
+    <url></url>
+    <Date>12/04/2012</Date>
+    <Time> 8:47AM</Time>
+  </line>
+  <line>
+    <name>Pascack Valley</name>
+    <status>SERVICE CHANGE</status>
+    <text>&lt;P style="MARGIN: 0in 0in 0pt" class=MsoPlainText&gt;&lt;FONT face=Calibri&gt;Most regular weekday service resumes on the Port Jervis &amp;amp; Pascack Valley Lines beginning on Monday, Nov. 19. See &lt;/FONT&gt;&lt;A href="http://www.njtransit.com/"&gt;&lt;FONT color=#0000ff face=Calibri&gt;www.njtransit.com&lt;/FONT&gt;&lt;/A&gt;&lt;FONT face=Calibri&gt; for all train times. &lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/P&gt;<br /><br /><span style="font-size:x-large; font-weight:bold">Advisory from NJ Transit</span><br /><br />&lt;span style=color:Red;font:caption&gt;Alert&lt;/span&gt;&lt;br/&gt;&lt;span style=font-size:x-small&gt;Dec 27, 2012 07:58:54 AM&lt;/span&gt;&lt;br/&gt;&lt;b&gt;System wide cross-honoring is in effect for NJ TRANSIT's bus, rail and light rail passes/tickets from Wednesday, December 26 at 1 p.m. until the end of service day Thursday, December 27 due to expected winter weather conditions.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</text>
+    <url></url>
+    <Date>11/19/2012</Date>
+    <Time> 6:23AM</Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>SERVICE CHANGE</status>
+    <text>&lt;P style="MARGIN: 0in 0in 0pt" class=MsoPlainText&gt;&lt;FONT face=Calibri&gt;Most regular weekday service resumes on the Port Jervis &amp;amp; Pascack Valley Lines beginning on Monday, Nov. 19. See &lt;/FONT&gt;&lt;A href="http://www.njtransit.com/"&gt;&lt;FONT color=#0000ff face=Calibri&gt;www.njtransit.com&lt;/FONT&gt;&lt;/A&gt;&lt;FONT face=Calibri&gt; for all train times. &lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/P&gt;<br /><br /><span style="font-size:x-large; font-weight:bold">Advisory from NJ Transit</span><br /><br />&lt;span style=color:Red;font:caption&gt;Alert&lt;/span&gt;&lt;br/&gt;&lt;span style=font-size:x-small&gt;Dec 27, 2012 07:58:54 AM&lt;/span&gt;&lt;br/&gt;&lt;b&gt;System wide cross-honoring is in effect for NJ TRANSIT's bus, rail and light rail passes/tickets from Wednesday, December 26 at 1 p.m. until the end of service day Thursday, December 27 due to expected winter weather conditions.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</text>
+    <url></url>
+    <Date>11/19/2012</Date>
+    <Time> 6:22AM</Time>
+  </line>
+</MetroNorth></service>
